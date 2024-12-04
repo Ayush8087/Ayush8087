@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Ravi
 - 👀 I’m interested in exploring new techs
-- 🌱 I’m currently learning DSA, ML
+- 🌱 I’m currently learning DSA, ML, Cybersecurity
 - 💞️ I’m looking to collaborate on exciting projects with some cool mates!!!
 - 📫 How to reach me ayushravi8087@gmail.com
 - 😄 Pronouns: He/Him
