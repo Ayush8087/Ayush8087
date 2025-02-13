@@ -74,7 +74,7 @@ I’m **Ayush Ravi**, a **third-year Electronics and Communication Engineering s
 
 
 ## 📊 GitHub Stats  
-![Ayush’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushravi&show_icons=true&theme=radical)  
+![Ayush’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush8087&show_icons=true&theme=radical)  
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush8087&layout=compact&theme=radical&cache_seconds=1800)
@@ -85,7 +85,7 @@ I’m **Ayush Ravi**, a **third-year Electronics and Communication Engineering s
 ---
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayushravi&theme=darkhub)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ayush8087&theme=darkhub)  
 
 ---
 
