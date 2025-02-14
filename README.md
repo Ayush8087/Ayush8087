@@ -119,3 +119,8 @@ I’m **Ayush Ravi**, a **third-year Electronics and Communication Engineering s
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 </details>
+
+<div align="center" style="border: 2px solid #000; padding: 15px; display: inline-block;">
+  <img src="https://komarev.com/ghpvc/?username=Ayush8087&color=blue" alt="Profile Views"/>
+</div>
+
