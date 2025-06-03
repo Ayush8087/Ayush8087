@@ -8,8 +8,8 @@ I’m **Ayush Ravi**, a **third-year Electronics and Communication Engineering s
   - Successfully **integrated deep learning models** into medical applications to enable intelligent, data-driven healthcare solutions.
   - Developed and **trained deep learning architectures** for the detection and diagnosis of various diseases using medical imaging and clinical data.
   - Focused on **enhancing diagnostic accuracy and early disease prediction** through the application of CNNs and other neural networks.
-  - Implemented model pipelines for **image classification, segmentation, and anomaly detection** in medical datasets**.
-  - Optimized model performance through **loss function tuning, data augmentation, and evaluation metrics** like precision, recall, and F1-score**.     
+  - Implemented model pipelines for **image classification, segmentation, and anomaly detection** in medical datasets.
+  - Optimized model performance through **loss function tuning, data augmentation, and evaluation metrics** like precision, recall, and F1-score.     
 
 - **Former Backend Developer Intern at Annovora**  
   - Developing innovative solutions with a focus on **system design and technology advancements**.  
