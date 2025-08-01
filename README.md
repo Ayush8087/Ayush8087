@@ -1,5 +1,5 @@
 # 👋 About Me  
-I’m **Ayush Ravi**, a **third-year Electronics and Communication Engineering student at IIIT Senapati**. I’m passionate about blending **hardware and software development** to create innovative, high-performance solutions.  
+I’m **Ayush Ravi**, a **fourth-year Electronics and Communication Engineering student at IIIT Senapati**. I’m passionate about blending **hardware and software development** to create innovative, high-performance solutions.  
 
 ---
 
